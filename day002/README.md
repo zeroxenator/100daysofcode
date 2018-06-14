@@ -21,3 +21,9 @@ A word (string) of length `0 < str < 1000` (In javascript you may get slightly m
 ### Output
 
 The middle character(s) of the word represented as a string.
+
+# Is Triangle?
+
+Implement a method that accepts 3 integer values a, b, c. The method should return true if a triangle can be built with the sides of given length and false in any other case.
+
+(In this case, all triangles must have surface greater than 0 to be accepted).
